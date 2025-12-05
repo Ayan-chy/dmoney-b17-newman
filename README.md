@@ -9,7 +9,11 @@
 
 ### How to Run:
 - `npm i`
-- `node report.js`
+- `npm test`
+
+### Caution:
+** Must need secret key to run this project
+
 
 ### View API documentation: 
 https://documenter.getpostman.com/view/37122492/2sB3dMxWQL
